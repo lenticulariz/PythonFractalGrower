@@ -2,6 +2,7 @@
 This is a python script designed to grow fractals!
 
 It works via a system based off the L-system. Where you assign a starting axiom, then apply a set of rules to it
+see L-system wiki: https://en.wikipedia.org/wiki/L-system
 
 For example:
 axiom: "A"
