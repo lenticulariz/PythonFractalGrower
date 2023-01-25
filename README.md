@@ -40,5 +40,4 @@ character LIB: -+FG/*[]_&
   _, a blank character, can be used for patterns. Does nothing to the turtle
   
   &, returns and stops all action further up the axiom level (axiom^i)
- 
-The advancedFractalGrower.py also acts as a module and you just need to import it!
+
