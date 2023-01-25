@@ -20,6 +20,7 @@ Ex:
 A - turn right 90, B - turn left 90
 
 character LIB: -+FG/*[]_&
+
   -, turns the turtle right by a specified amount (angle)
   
   +. turns the turtle left  by a specified amount (angle)
