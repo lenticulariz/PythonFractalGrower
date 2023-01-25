@@ -40,4 +40,4 @@ character LIB: -+FG/*[]_&
   
   &, returns and stops all action further up the axiom level (axiom^i)
  
-The advancedFractalGrower.py also acts as a module and you jsut need to import it!
+The advancedFractalGrower.py also acts as a module and you just need to import it!
